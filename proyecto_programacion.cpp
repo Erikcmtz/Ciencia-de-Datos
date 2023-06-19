@@ -1,12 +1,4 @@
-/*  gestor de una tienda que permita administrar la información de los artículos que se venden
-Los campos del gestor deben contener. el archivo se llamara productos.txt
-Insertar/agregar productos char, cadena, arreglos y float
-Modificar producto
-Eliminar productos
-Mostrar productos
-Buscar productos
-insertar, modificar o eliminación se deben de reflejar en el archivo
-*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
